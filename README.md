@@ -1,6 +1,13 @@
-## Hi there 👋
+## Portfolio page
 
-See my porfolio page: https://tdak1509.github.io/
+https://tdak1509.github.io/
+
+## About me
+
+A fullstack software engineer who codes in TDD style. My strengh:
+- Clean code
+- Fast learner, can work with any technology, if I don't know it yet I can always learn it.
+- Can't live without memes.
 
 <!--
 **TDAK1509/tdak1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
